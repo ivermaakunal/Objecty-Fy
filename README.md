@@ -1,4 +1,5 @@
 🚀 Real-Time Object Detection Desktop App.
+
 A lightweight cross-platform desktop application built with Electron.js and TensorFlow.js that performs real-time object detection using the COCO-SSD model.
 This app leverages the user's webcam to identify and label everyday objects (like chairs, cell phones, and laptops) with high accuracy and low latency.
 
@@ -8,11 +9,11 @@ This app leverages the user's webcam to identify and label everyday objects (lik
 - Privacy-Focused: All machine learning processing happens locally on the client side; no data is sent to a server.
 - Clean UI: Simple, responsive interface built with HTML5 and CSS3.
 
-🛠️ Tech Stack.
-> Frontend: HTML5, CSS3, JavaScript
-> Framework: Electron.js (Desktop Environment)
-> Machine Learning: TensorFlow.js
-> Model: COCO-SSD (Common Objects in Context)
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript
+Framework: Electron.js (Desktop Environment)
+Machine Learning: TensorFlow.js
+Model: COCO-SSD (Common Objects in Context)
 
 📦 Installation & Setup.
 Clone the repository.
