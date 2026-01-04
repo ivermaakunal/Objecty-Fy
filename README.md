@@ -15,9 +15,9 @@ This app leverages the user's webcam to identify and label everyday objects (lik
 > Model: COCO-SSD (Common Objects in Context)
 
 📦 Installation & Setup
-> Clone the repository
-> Install dependencies : npm install or npm i
-> Run the application : npm start
+Clone the repository
+Install dependencies : npm install or npm i
+Run the application : npm start
 
 🧠 How it Works
 The app initializes the COCO-SSD model, which is a "Single Shot MultiBox Detector" designed to track multiple objects in a single image. Once the webcam stream starts, the model scans each frame, draws bounding boxes, and predicts the class of the object with a confidence score.
